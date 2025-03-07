@@ -1,4 +1,5 @@
 <p align="right"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
+
 # Spring Boot - Estudo de Arquitetura
 
 Este projeto é um estudo sobre a arquitetura do **Spring Boot**, abordando conceitos essenciais como injeção de dependências, camadas da aplicação e diferentes tipos de requisições HTTP.
