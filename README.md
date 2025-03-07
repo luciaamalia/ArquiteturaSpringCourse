@@ -78,7 +78,7 @@ public class ConfiguracaoApp {
 ## 🚀 Como Rodar o Projeto
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone https://github.com/luciaamalia/ArquiteturaSpringCourse.git
    ```
 2. Configure o banco de dados no `application.yml`
 3. Execute o projeto:
