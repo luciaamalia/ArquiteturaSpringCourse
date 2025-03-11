@@ -1,4 +1,4 @@
-package io.github.cursodsousa.arquiteturaspring.montadora;
+package com.projetocourse.arquiteturaspring.montadora;
 
 import java.awt.*;
 

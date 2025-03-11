@@ -1,4 +1,4 @@
-package io.github.cursodsousa.arquiteturaspring;
+package com.projetocourse.arquiteturaspring;
 
 import org.springframework.boot.Banner;
 import org.springframework.boot.SpringApplication;

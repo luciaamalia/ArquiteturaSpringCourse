@@ -1,4 +1,4 @@
-package io.github.cursodsousa.arquiteturaspring;
+package com.projetocourse.arquiteturaspring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

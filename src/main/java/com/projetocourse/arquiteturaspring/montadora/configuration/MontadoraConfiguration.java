@@ -1,7 +1,7 @@
-package io.github.cursodsousa.arquiteturaspring.montadora.configuration;
+package com.projetocourse.arquiteturaspring.montadora.configuration;
 
-import io.github.cursodsousa.arquiteturaspring.montadora.Motor;
-import io.github.cursodsousa.arquiteturaspring.montadora.TipoMotor;
+import com.projetocourse.arquiteturaspring.montadora.Motor;
+import com.projetocourse.arquiteturaspring.montadora.TipoMotor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;

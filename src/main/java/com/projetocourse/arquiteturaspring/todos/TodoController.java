@@ -1,4 +1,4 @@
-package io.github.cursodsousa.arquiteturaspring.todos;
+package com.projetocourse.arquiteturaspring.todos;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.HttpStatusCode;

@@ -1,4 +1,4 @@
-package io.github.cursodsousa.arquiteturaspring.todos;
+package com.projetocourse.arquiteturaspring.todos;
 
 import jakarta.persistence.*;
 

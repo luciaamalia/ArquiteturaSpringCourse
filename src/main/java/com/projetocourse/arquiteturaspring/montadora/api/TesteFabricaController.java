@@ -1,5 +1,8 @@
-package io.github.cursodsousa.arquiteturaspring.montadora.api;
+package com.projetocourse.arquiteturaspring.montadora.api;
 
+import com.projetocourse.arquiteturaspring.montadora.Chave;
+import com.projetocourse.arquiteturaspring.montadora.HondaHRV;
+import com.projetocourse.arquiteturaspring.montadora.Motor;
 import io.github.cursodsousa.arquiteturaspring.montadora.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
