@@ -1,7 +1,9 @@
+<p align="right"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
+
 # Spring Boot - Estudo de Arquitetura
 
 Este projeto é um estudo sobre a arquitetura do **Spring Boot**, abordando conceitos essenciais como injeção de dependências, camadas da aplicação e diferentes tipos de requisições HTTP.
-
+Se quiser ver com mais detalhes anotações sobre o estudo desse curso que fiz, basta acessar esse link:  🚀 [Acesse o Notion aqui](https://www.notion.so/Curso-Spring-Boot-Expert-1aeea5c6578e80b9bc34dd51e2faef02?pvs=4)
 ## 📌 Tecnologias Utilizadas
 - Java 21
 - Spring Boot 3.3.0
@@ -78,7 +80,7 @@ public class ConfiguracaoApp {
 ## 🚀 Como Rodar o Projeto
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone https://github.com/luciaamalia/ArquiteturaSpringCourse.git
    ```
 2. Configure o banco de dados no `application.yml`
 3. Execute o projeto:
